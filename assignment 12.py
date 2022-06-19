@@ -4,7 +4,7 @@ Created on Sun Mar 27 02:51:00 2022
 
 @author: DELL
 """
-#Sraping html data using beautiful soup
+#Scraping html data using beautiful soup
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import ssl
